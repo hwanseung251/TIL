@@ -13,15 +13,11 @@
 배운 내용을 주제별로 크게 분류하여 관리합니다.
 
 - Algorithm & Data Structure
-
 - Python
-
 - Web 
-
 - AI 
-
 - Project
-
+- Git
 - 일타싸피
 
 ---
