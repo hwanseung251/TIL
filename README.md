@@ -17,7 +17,7 @@
 - Web 
 - AI 
 - Project
-- Git
+- Startcamp
 - 일타싸피
 
 ---
