@@ -21,6 +21,8 @@
     - [DFS](Algorithm/DFS/2025-08-13.md)
     - [SW 문제해결과 진수, 진법](Algorithm/SWproblem_solution/2025-09-02.md)
     - [분할 정복_병합정렬, 퀵정렬, 이진 검색](Algorithm/Divide&Conquer/2025-09-10.md)
+    - [Backtracking, Tree](Algorithm/Backtracking/2025-09-11.md)
+    - [인접행렬/인접리스트, DFS/BFS, Union-find](Algorithm/Graph/2025-09-15.md)
 - Data Structure
     - [문자열](Data_Structure/String_1/2025-08-08.md)
     - [회문, 문자열 연산](Data_Structure/String_2/2025-08-11.md)
