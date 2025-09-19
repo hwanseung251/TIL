@@ -50,6 +50,8 @@
   - [CSS Layout](Web/CSS_Layout/2025-08-26.md)
   - [Bootstrap](Web/Bootstrap/2025-08-28.md)
   - [Responsive_Web](Web/Responsive_Web/2025-08-28.md)
+  - [Django](Web/Django/2025-09-18.md)
+  - [Django: Template & URLs](Web/Django Template & URLs/2025-09-19.md)
 - AI 
 - Project
   - [PJT1](Project/PJT1/PJT1_README.md)
