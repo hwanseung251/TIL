@@ -36,6 +36,17 @@
   - [큐, 원형큐](Data_Structure/Queue/2025-08-20.md)
   - [트리, 순회](Data_Structure/Tree1/2025-08-22.md)
   - [이진탐색트리, 힙](Data_Structure/Tree2/2025-08-29.md)
+- Django
+  - [Design&Pattern](Django/Django_design&pattern/2025-09-18.md)
+  - [Template&URLs](Django/Django_Template&URLs/2025-09-19.md)
+  - [Models](Django/Django_Models/2025-09-23.md)
+  - [ORM](Django/Django_ORM/2025-09-24.md)
+  - [ORM_with_view](Django/Django_ORM_with_view/2025-09-25.md)
+- Web 
+  - [HTML과 CSS, MDN](Web/HTML&CSS/2025-08-25.md)
+  - [CSS Layout](Web/CSS_Layout/2025-08-26.md)
+  - [Bootstrap](Web/Bootstrap/2025-08-28.md)
+  - [Responsive_Web](Web/Responsive_Web/2025-08-28.md)
 - Python
   - [변수, 타입](Python/Basic_Syntax_1/2025-07-21.md)
   - [리스트, 튜플, 딕셔너리, 세트](Python/Basic_Syntax_2/2025-07-22.md)
@@ -45,14 +56,6 @@
   - [함수, Scope](Python/Functions/2025-07-23.md)
   - [객체 지향(클래스)](Python/OOP_1/2025-07-30.md)
   - [상속, 디버깅](Python/OOP_2/2025-07-31.md)
-- Web 
-  - [HTML과 CSS, MDN](Web/HTML&CSS/2025-08-25.md)
-  - [CSS Layout](Web/CSS_Layout/2025-08-26.md)
-  - [Bootstrap](Web/Bootstrap/2025-08-28.md)
-  - [Responsive_Web](Web/Responsive_Web/2025-08-28.md)
-  - [Django](Web/Django/2025-09-18.md)
-  - [Django: Template&URLs](Web/Django_Template&URLs/2025-09-19.md)
-  - [Django: Models](Web/Django_Models/2025-09-23.md)
 - AI 
 - Project
   - [PJT1](Project/PJT1/PJT1_README.md)
