@@ -1,4 +1,4 @@
-04_pjt — 관심 종목 토론 데이터 수집/분석 (Django + Selenium + OpenAI)
+## 관심 종목 토론 데이터 수집/분석 (Django + Selenium + OpenAI)
 
 작성일: 2025-09-26
 제출용 보고서 겸 README 문서
