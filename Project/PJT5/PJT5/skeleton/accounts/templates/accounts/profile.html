@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+
+{% block content %}
+  <h1>{{ user.username }}님의 관심 종목</h1>
+
+  <form method="POST" action="{% url 'accounts:profile' %}">
+    {% csrf_token %}
+    <input type="text" name="stock_name" value="{{ stock_name|default:'' }}" placeholder="종목명 입력">
+    <button type="submit">추가</button>
+  </form>
+
+  <ul>
+    {% for stock in stocks %}
+    <li>
+      {{ stock.stock_name }}
+      <form action="{% url "accounts:stock_delete" stock.pk %}" method="POST">
+        {% csrf_token %}
+        <input type="submit" value="삭제">
+      </form>
+    </li>
+    {% endfor %}
+  </ul>
+
+  {% if messages %}
+    <ul class="messages">
+      {% for message in messages %}
+        <li{% if message.tags %} class="{{ message.tags }}"{% endif %}>{{ message }}</li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+
+  {% endblock content %}

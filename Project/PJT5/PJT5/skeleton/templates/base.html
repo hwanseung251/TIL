@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>주식 찾기</title>
+  <style>
+    {% block style %}{% endblock style %}
+  </style>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+</head>
+<body>
+  <!-- 요구사항 F01: 네비게이션 바 -->
+  <nav class="navbar navbar-expand bg-dark border-bottom border-body" data-bs-theme="dark">
+    <div class="container-fluid">
+      <!-- 브랜드(공통) -->
+      <a class="navbar-brand fw-semibold" href="{% url 'contentfetch:stock_finder' %}">주식 댓글 분석</a>
+      <!-- 메뉴 -->
+      <div>
+        <ul class="navbar-nav ms-auto">
+
+          {% if user.is_authenticated %}
+            <!-- 로그인 사용자: 로그아웃 / 프로필 -->
+            <li class="nav-item">
+              <a class="nav-link" href="{% url "accounts:profile" %}">프로필</a>
+            </li>
+            <li class="nav-item">
+              <form method="POST" action="{% url "accounts:logout" %}" class="d-inline">
+                {% csrf_token %}
+                <button type="submit" class="btn btn-link nav-link">로그아웃</button>
+              </form>
+            </li>
+          {% else %}
+            <!-- 비로그인 사용자: 회원가입 / 로그인 -->
+            <li class="nav-item">
+              <a class="nav-link" href="{% url "accounts:signup" %}">회원가입</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="{% url "accounts:login" %}">로그인</a>
+            </li>
+          {% endif %}
+
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  {% block content %}{% endblock content %}
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
+</body>
+</html>
