@@ -42,6 +42,8 @@
   - [Models](Django/Django_Models/2025-09-23.md)
   - [ORM](Django/Django_ORM/2025-09-24.md)
   - [ORM_with_view](Django/Django_ORM_with_view/2025-09-25.md)
+  - [Form](Django/Django_Form/2025-09-29.md)
+  - [Auth1](Django/Django_Auth1/2025-09-30.md)
 - Web 
   - [HTML과 CSS, MDN](Web/HTML&CSS/2025-08-25.md)
   - [CSS Layout](Web/CSS_Layout/2025-08-26.md)
@@ -58,10 +60,11 @@
   - [상속, 디버깅](Python/OOP_2/2025-07-31.md)
 - AI 
 - Project
-  - [PJT1](Project/PJT1/PJT1_README.md)
-  - [PJT2](Project/PJT2/PJT2_README.md)
-  - [PJT3](Project/PJT3/PJT3_README.md)
-  - [PJT4](Project/PJT4/README.md)
+  - [PJT1](Project/PJT1/PJT1/PJT1_README.md)
+  - [PJT2](Project/PJT2/PJT2/PJT2_README.md)
+  - [PJT3](Project/PJT3/PJT3/PJT3_README.md)
+  - [PJT4](Project/PJT4/PJT4/README.md)
+  - [PJT5](Project/PJT5/PJT5/README.md)
 - Startcamp
   - [운영체제와 터미널, Git](Startcamp/2025-07-17/2025-07-17.md)
   - [Git 명령어, 생성형AI, API, Vibe Coding](Startcamp/2025-07-18/2025-07-18.md)
