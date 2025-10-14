@@ -44,6 +44,7 @@
   - [ORM_with_view](Django/Django_ORM_with_view/2025-09-25.md)
   - [Form](Django/Django_Form/2025-09-29.md)
   - [Auth1](Django/Django_Auth1/2025-09-30.md)
+  - [Auth2](Django/Django_Auth2/2025-10-01.md)
 - Web 
   - [HTML과 CSS, MDN](Web/HTML&CSS/2025-08-25.md)
   - [CSS Layout](Web/CSS_Layout/2025-08-26.md)
