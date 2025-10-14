@@ -46,10 +46,10 @@
   - [Auth1](Django/Django_Auth1/2025-09-30.md)
   - [Auth2](Django/Django_Auth2/2025-10-01.md)
 - Web 
-  - [HTML과 CSS, MDN](Web/HTML&CSS/2025-08-25.md)
-  - [CSS Layout](Web/CSS_Layout/2025-08-26.md)
-  - [Bootstrap](Web/Bootstrap/2025-08-28.md)
-  - [Responsive_Web](Web/Responsive_Web/2025-08-28.md)
+  - [HTML과 CSS, MDN](Web(front-end)/HTML&CSS/2025-08-25.md)
+  - [CSS Layout](Web(front-end)/CSS_Layout/2025-08-26.md)
+  - [Bootstrap](Web(front-end)/Bootstrap/2025-08-28.md)
+  - [Responsive_Web](Web(front-end)/Responsive_Web/2025-08-28.md)
 - Python
   - [변수, 타입](Python/Basic_Syntax_1/2025-07-21.md)
   - [리스트, 튜플, 딕셔너리, 세트](Python/Basic_Syntax_2/2025-07-22.md)
@@ -73,6 +73,7 @@
 - Startcamp
   - [운영체제와 터미널, Git](Startcamp/2025-07-17/2025-07-17.md)
   - [Git 명령어, 생성형AI, API, Vibe Coding](Startcamp/2025-07-18/2025-07-18.md)
-- 일타싸피
+- Others
+  - [Git_커밋작성자](Others/Git_커밋작성자/README.md)
 
 ---
