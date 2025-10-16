@@ -64,6 +64,14 @@
   - [지도학습_회귀, 분류](AI/지도학습/2025-10-13.md)
   - [교차검증](AI/교차검증/2025-10-13.md)
   - [비지도학습_클러스터링](AI/비지도학습/2025-10-13.md)
+  - [Linear_Regression](AI/Linear_Regression/2025-10-14.md)
+  - [Logistic_Regression](AI/Logistic_Regression/2025-10-14.md)
+  - [신경망모델](AI/신경망모델/2025-10-14.md)
+  - [신경망적합](AI/신경망적합/2025-10-14.md)
+  - [RNN&LSTM](AI/RNN&LSTM/2025-10-15.md)
+  - [Seq2Seq&Attention](AI/Seq2Seq&Attention/2025-10-15.md)
+  - [Transformer](AI/Transformer/2025-10-15.md)
+  - [사전학습기반_언어모델](AI/사전학습기반_언어모델/2025-10-15.md)
 - Project
   - [PJT1](Project/PJT1/PJT1/PJT1_README.md)
   - [PJT2](Project/PJT2/PJT2/PJT2_README.md)
@@ -73,7 +81,8 @@
 - Startcamp
   - [운영체제와 터미널, Git](Startcamp/2025-07-17/2025-07-17.md)
   - [Git 명령어, 생성형AI, API, Vibe Coding](Startcamp/2025-07-18/2025-07-18.md)
-- Others
-  - [Git_커밋작성자](Others/Git_커밋작성자/README.md)
-
+- Deep_dive
+  - [Git_커밋작성자](Deep_dive/Git_커밋작성자/README.md)
+  - [HuggingFace](Deep_dive/HuggingFace/README.md)
+  - [Tokenizer](Deep_dive/Tokenizer/README.md)
 ---
