@@ -72,6 +72,13 @@
   - [Seq2Seq&Attention](AI/Seq2Seq&Attention/2025-10-15.md)
   - [Transformer](AI/Transformer/2025-10-15.md)
   - [사전학습기반_언어모델](AI/사전학습기반_언어모델/2025-10-15.md)
+  - [CNN](AI/CNN/2025-10-16.md)
+  - [RNN](AI/RNN/2025-10-16.md)
+  - [딥러닝 학습 전략, 팁](AI/딥러닝_학습전략/2025-10-16.md)
+  - [개인화 학습과 합성 데이터](AI/개인화학습과_합성데이터/2025-10-17.md)
+  - [Small Vision Language Model](AI/SmallVisionLanguageModel/2025-10-17.md)
+  - [MultiModal](AI/MultiModal/2025-10-17.md)
+  - [Foundation Model](AI/FoundationModel/2025-10-17.md)
 - Project
   - [PJT1](Project/PJT1/PJT1/PJT1_README.md)
   - [PJT2](Project/PJT2/PJT2/PJT2_README.md)
@@ -85,4 +92,8 @@
   - [Git_커밋작성자](Deep_dive/Git_커밋작성자/README.md)
   - [HuggingFace](Deep_dive/HuggingFace/README.md)
   - [Tokenizer](Deep_dive/Tokenizer/README.md)
+  - [디바이스 불일치 에러](Deep_dive/디바이스_불일치에러/README.md)
+  - [Prompt Tuning VS Prompt Desigm](Deep_dive/프롬프트튜닝vs프롬프트디자인/README.md)
+  - [Scheduler](Deep_dive/Scheduler/README.md)
+  - [Linear Probing & Partial Fine-tuning](Deep_dive/LinearProbing&PartialFinetuning/README.md)
 ---
