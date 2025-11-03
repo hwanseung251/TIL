@@ -50,6 +50,8 @@
   - [CSS Layout](Web(front-end)/CSS_Layout/2025-08-26.md)
   - [Bootstrap](Web(front-end)/Bootstrap/2025-08-28.md)
   - [Responsive_Web](Web(front-end)/Responsive_Web/2025-08-28.md)
+- Database
+  - [SQL1](Database/SQL1/2025-11-03.md)
 - Python
   - [변수, 타입](Python/Basic_Syntax_1/2025-07-21.md)
   - [리스트, 튜플, 딕셔너리, 세트](Python/Basic_Syntax_2/2025-07-22.md)
