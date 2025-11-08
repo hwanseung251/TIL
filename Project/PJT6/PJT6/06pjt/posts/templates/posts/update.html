@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block content %}
+  <h1>Update</h1>
+  <form action="{% url "posts:update" post.pk %}" method="POST">
+    {% csrf_token %}
+    {{ form }}
+    <input class="btn btn-dark" type="submit" value="수정">
+  </form>
+
+{% endblock content %}

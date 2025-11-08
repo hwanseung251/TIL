@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+
+{% block content %}
+  <h1>{{ user.username }}님의 프로필</h1>
+  
+  <h3>게시글 모아보기</h3>
+  <ul class="list-group list-group-flush">
+    {% for post in posts %}
+      <li class="list-group-item">
+        <a class="fw-bold" href="{% url "posts:detail" post.pk %}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <h3>댓글 모아보기</h3>
+  <ul class="list-group list-group-flush">
+    {% for comment in comments %}
+      <li class="list-group-item">
+        <a class="fw-bold" href="{% url "posts:detail" comment.post.pk %}">{{ comment.post }}</a> - {{ comment.content }}
+      </li>
+    {% endfor %}
+  </ul>
+
+{% endblock content %}
