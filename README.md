@@ -56,6 +56,7 @@
   - [N:1 1](Database/N대1_1/2025-11-05.md)
   - [N:1 2](Database/N대1_2/2025-11-06.md)
   - [N:M 1](Database/N대M_1/2025-11-10.md)
+  - [N:M 2](Database/N대M_2/2025-11-11.md)
 - Python
   - [변수, 타입](Python/Basic_Syntax_1/2025-07-21.md)
   - [리스트, 튜플, 딕셔너리, 세트](Python/Basic_Syntax_2/2025-07-22.md)
