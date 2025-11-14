@@ -93,6 +93,7 @@
   - [PJT4](Project/PJT4/PJT4/README.md)
   - [PJT5](Project/PJT5/PJT5/README.md)
   - [PJT6](Project/PJT6/PJT6/README.md)
+  - [PJT7](Project/PJT7/PJT7/README.md)
 - Startcamp
   - [운영체제와 터미널, Git](Startcamp/2025-07-17/2025-07-17.md)
   - [Git 명령어, 생성형AI, API, Vibe Coding](Startcamp/2025-07-18/2025-07-18.md)
