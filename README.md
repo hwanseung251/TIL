@@ -45,6 +45,8 @@
   - [Form](Django/Django_Form/2025-09-29.md)
   - [Auth1](Django/Django_Auth1/2025-09-30.md)
   - [Auth2](Django/Django_Auth2/2025-10-01.md)
+  - [Staticfiles](Django/Django_Staticfiles/2025-10-10.md)
+  - [RestAPI](Django/Django_RestAPI/2025-11-13.md)
 - Web 
   - [HTML과 CSS, MDN](Web(front-end)/HTML&CSS/2025-08-25.md)
   - [CSS Layout](Web(front-end)/CSS_Layout/2025-08-26.md)
