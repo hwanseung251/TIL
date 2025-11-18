@@ -68,6 +68,9 @@
   - [함수, Scope](Python/Functions/2025-07-23.md)
   - [객체 지향(클래스)](Python/OOP_1/2025-07-30.md)
   - [상속, 디버깅](Python/OOP_2/2025-07-31.md)
+- JavaScript
+  - [Document Object Model](JavaScript/DOM/2025-11-17.md)
+  - [기초 문법](JavaScript/Basic_syntax_1/2025-11-18.md)
 - AI 
   - [AI와 ML은 무엇인가](AI/AI와ML/2025-10-13.md)
   - [지도학습_회귀, 분류](AI/지도학습/2025-10-13.md)
