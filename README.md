@@ -70,7 +70,9 @@
   - [상속, 디버깅](Python/OOP_2/2025-07-31.md)
 - JavaScript
   - [Document Object Model](JavaScript/DOM/2025-11-17.md)
-  - [기초 문법](JavaScript/Basic_syntax_1/2025-11-18.md)
+  - [기초 문법1](JavaScript/Basic_syntax_1/2025-11-18.md)
+  - [기초 문법2](JavaScript/Basic_syntax_2/2025-11-20.md)
+  - [이벤트 컨트롤링](JavaScript/Controlling_event/2025-11-20.md)
 - AI 
   - [AI와 ML은 무엇인가](AI/AI와ML/2025-10-13.md)
   - [지도학습_회귀, 분류](AI/지도학습/2025-10-13.md)
