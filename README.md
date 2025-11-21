@@ -3,7 +3,7 @@
 ## 📌 목적
 
 > 꾸준하게 지속적인 성장을 위해, 매일 배운 내용을 저만의 언어로 정리합니다.
-> 
+>
 > 제가 배운 것을 기록해두고 즉시 활용 가능한 지식 데이터베이스를 쌓는 것을 목표로 합니다.
 
 ---
@@ -47,7 +47,7 @@
   - [Auth2](Django/Django_Auth2/2025-10-01.md)
   - [Staticfiles](Django/Django_Staticfiles/2025-10-10.md)
   - [RestAPI](Django/Django_RestAPI/2025-11-13.md)
-- Web 
+- Web
   - [HTML과 CSS, MDN](Web(front-end)/HTML&CSS/2025-08-25.md)
   - [CSS Layout](Web(front-end)/CSS_Layout/2025-08-26.md)
   - [Bootstrap](Web(front-end)/Bootstrap/2025-08-28.md)
@@ -73,7 +73,7 @@
   - [기초 문법1](JavaScript/Basic_syntax_1/2025-11-18.md)
   - [기초 문법2](JavaScript/Basic_syntax_2/2025-11-20.md)
   - [이벤트 컨트롤링](JavaScript/Controlling_event/2025-11-20.md)
-- AI 
+- AI
   - [AI와 ML은 무엇인가](AI/AI와ML/2025-10-13.md)
   - [지도학습_회귀, 분류](AI/지도학습/2025-10-13.md)
   - [교차검증](AI/교차검증/2025-10-13.md)
@@ -101,6 +101,7 @@
   - [PJT5](Project/PJT5/PJT5/README.md)
   - [PJT6](Project/PJT6/PJT6/README.md)
   - [PJT7](Project/PJT7/PJT7/README.md)
+  - [PJT8](Project/PJT8/PJT8/README.md)
 - Startcamp
   - [운영체제와 터미널, Git](Startcamp/2025-07-17/2025-07-17.md)
   - [Git 명령어, 생성형AI, API, Vibe Coding](Startcamp/2025-07-18/2025-07-18.md)
