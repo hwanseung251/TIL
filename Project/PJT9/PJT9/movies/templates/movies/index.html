@@ -1,0 +1,42 @@
+{% extends 'base.html' %}
+
+{% block content %}
+  <h1>Movies</h1>
+
+  <select id="genre-select" class="genre-select">
+    <option value="">전체 보기</option>
+    {% for genre in genres %}
+      <option value="{{ genre.pk }}">{{ genre.name }}</option>
+    {% endfor %}
+  </select>
+
+  <ul>
+    {% for movie in movies %}
+      <li>{{ movie.title }}</li>
+    {% endfor %}
+  </ul>
+
+  <script>
+    const genreSelect = document.querySelector('#genre-select');
+
+    genreSelect.addEventListener('change', function(event) {
+      const genreId = event.target.value;
+
+      // AJAX 요청 보내기
+      fetch(`/movies/filter-genre/?genre_id=${genreId}`)
+        .then(response => response.json())
+        .then(data => {
+          // 기존 영화 목록 비우기
+          const movieList = document.querySelector('ul');
+          movieList.innerHTML = '';
+
+          // 새로운 영화 목록 추가하기
+          data.movies.forEach(movie => {
+            const li = document.createElement('li');
+            li.textContent = movie.title;
+            movieList.appendChild(li);
+          });
+        });
+    })
+  </script>
+{% endblock %}
